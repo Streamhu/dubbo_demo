@@ -1,0 +1,11 @@
+.idea/
+common/target/classes/
+common/common.iml
+*.iml
+*.ipr
+*.iws
+*/target/classes/jdbc.properties
+*/target
+
+# for mac OS
+.DS_Store
